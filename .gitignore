@@ -1,0 +1,21 @@
+# FreeCAD backup files
+*.[fF][cC][sS]td1
+
+# DraftSight backup files
+*.bak
+
+# Altium Designer files
+__Previews
+Status\ Report.Txt
+*History/
+*Project\ Logs*
+*Project\ Outputs*
+*.PrjP[cC][bB]Structure
+
+*.[dD]at
+*.log
+*.zip
+~$*
+*.step
+
+*Zone.Identifier
